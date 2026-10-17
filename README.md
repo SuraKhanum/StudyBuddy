@@ -19,7 +19,11 @@ A simple command-line study planner built with Python.
 3. Run: python StudyBuddy.py
 
 ## What I Learned
-- (apni 2 lines likho, jaise: lists, dictionaries, loops, file handling)
+- Using lists and dictionaries to store and organize data
+- Using while and for loops, and enumerate() to number items
+- Making decisions with if, elif and else
+- Validating user input to avoid errors
+- Saving and loading data from a file using JSON
 
 ## Author
 Bibi Sura Sufi Khanum
